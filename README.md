@@ -1,24 +1,24 @@
 # Welcome to my Github Profile!
 
-Hi there, I am glad you made it here, what are you looking for? Projects i have worked on i suppose. Take your time and go through my codebase if you like. I am 
-always open to showing off what i can do, however, if you see anything you like, feel free to reach out for a collaboration.
+Hi there, I am glad you made it here, what are you looking for? Projects i have worked on, i suppose. Take your time and go through my codebase if you like. I am 
+always open to showing off what i can do. However, if you see anything you like, feel free to reach out for a collaboration.
 
 ## About Me 👋 
 
-I’m Samuel Okeke, a seasoned, passionate and enthusiastic software development, with an excellent track record, i am confident about my skills, and i enjoy talking about them, my goal is always to keep the project on the roll until fruition. I practice a lot to make myself up to date with current technologies.
+I’m Samuel Okeke, a seasoned, passionate and enthusiastic software development, with an excellent track record, i am confident about my skills, and i enjoy talking about them, my goal is always to keep the project on the roll until fruition. I also practice a lot to keep myself up to date with current technologies and version releases.
 
 ## Interest 👀 
 
-I’m interested in working as a frontend developer, backend developer, however frontend is my strongest suit, its okay to be in doubt but i am quick to delivery, spontaneous with implementation, and thorough at carrying out my tasks...
+I’m interested in working as a frontend developer, backend developer, however frontend is my strongest suit. Its okay to be in doubt but i am quick to delivery, spontaneous with implementation, and thorough with my deliverables...
 
 ## Current Goal 🌱 
 
-I’m currently learning mobile development with React native and Flutter, and i can't wait to show off my skills in mobile app development just i have done with
+I’m currently learning mobile development with React native and Flutter, and i can't wait to show off my skills in mobile app development just as i have done with
 web development...
 
 ## Looking forward to? 💞️ 
 
-I’m looking to collaborate on open source project, and with the great minds od developers...
+I’m looking to collaborate on open source project, get closure and with other great developers...
 
 ## How to reach me 📫
 
@@ -29,7 +29,7 @@ _The following are medium via which you can reach me:_
 **Fun fact:** 
 > I have an OCD for untidy codes, always has to be neat and top-notch.
 
-> I have a knack for following conventions, doesn't matter if it worked without convention.
+> I have a knack for following conventions, doesn't matter if it worked without them.
 
 <!---
 Samuel-com/Samuel-com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
